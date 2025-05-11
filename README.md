@@ -1,11 +1,3 @@
-<!---
-<!---
-Ghifariezra/Ghifariezra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
-
-<!-- ![profile](./assets/header.png) -->
-
 # 👋 Hi, I’m Ghifari Ezra Ramadhan
 - 👀 I’m passionate about Fullstack Web Development.
 - 🌱 Currently honing my skills in Fullstack Web Development.
