@@ -91,7 +91,7 @@ const ghifari = {
 
 </div>
 
-## 🎯 2025 Goals
+## 🎯 Goals
 
 -   🎓 Master advanced fullstack development patterns
 -   💼 Land my first role as a Software Engineer
